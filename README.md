@@ -39,3 +39,6 @@ To launch the Streamlit interface:
 ```bash
 streamlit run app.py
 ```
+## 🖼️ Demo
+
+![GestureTune Demo](demo.png)
